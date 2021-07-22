@@ -1,5 +1,5 @@
 module SinType
-  base_url="https://tiagor98.github.io/puppet-sec-lint"
+  base_url="https://tqrg.github.io/puppet-sec-lint"
 
   HardCodedCred = {
     name: "Hard Coded Credentials",

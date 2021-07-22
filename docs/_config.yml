@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Puppet Security Linter
-email: tiago7b27@gmail.com
+email: thequasarresearchgroup@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Security focused linter to detect and help solve vulnerabilities found on Puppet Infrastructure-as-code scripts
 
